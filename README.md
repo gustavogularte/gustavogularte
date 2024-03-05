@@ -1,5 +1,5 @@
 # 💫 console.log("Hello World");
-👨‍💻Front-End Developer<br>🌱 Studying Back-End<br>💬 Working as a Freelancer
+👨‍💻Desenvolvedor Front End<br>🌱 Estudando ADS na faculdade Unisinos<br>💬 Working as a Freelancer
 
 
 # 💻 Tech Stack:
