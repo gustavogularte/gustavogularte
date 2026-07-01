@@ -1,58 +1,53 @@
-<h1 align="center">
-Olá! 👋 Eu sou Gustavo Gularte
-</h1>
+<h1 align="center">Olá! 👋 Eu sou Gustavo Gularte</h1>
 
 <h3 align="center">
-Desenvolvedor Front-end
+Desenvolvedor Front-end • React • Next.js • TypeScript
 </h3>
 
 <p align="center">
-Apaixonado por criar interfaces modernas, acessíveis e com foco na experiência do usuário.
+Apaixonado por desenvolver interfaces modernas, acessíveis e focadas na melhor experiência do usuário.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Desenvolvedor+Front-end;React+%7C+Next.js+%7C+TypeScript;Sempre+aprendendo+novas+tecnologias."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;UI+focada+em+performance+e+acessibilidade" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unisinos**
-
-🚀 Participante do **Geração Caldeira**
-
-💼 Experiência prática em desenvolvimento Front-end através da **Residência TIC 55** e da **Devhat**
-
-⚛️ Foco em desenvolvimento Front-end com **React**, **Next.js** e **TypeScript**
-
-📱 Experiência com desenvolvimento mobile utilizando **Flutter**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unisinos**
+- 🚀 Participante do programa **Geração Caldeira**
+- 💼 Experiência prática através da **Residência TIC 55** e da **Devhat**
+- ⚛️ Desenvolvedor Front-end com foco em **React**, **Next.js** e **TypeScript**
+- 📱 Experiência com desenvolvimento mobile utilizando **Flutter**
+- 🌱 Atualmente aprofundando meus conhecimentos em desenvolvimento Front-end e desenvolvimento Back-end com **Java**.
 
 ---
 
 # 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavogularte&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogularte&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavogularte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogularte&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -66,11 +61,15 @@ Apaixonado por criar interfaces modernas, acessíveis e com foco na experiência
 </a>
 
 <a href="mailto:gustavorgularte@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gustavogularte">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.frontendmentor.io/profile/gustavogularte">
-<img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
 </a>
 
 </p>
