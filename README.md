@@ -18,7 +18,7 @@ Apaixonado por desenvolver interfaces modernas, acessíveis e focadas na melhor 
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unisinos**
 - 💼 Desenvolvedor Front-end com experiência prática na **Residência em TIC 55 – Apoio à Recuperação do Rio Grande do Sul**
-- 🤝 A Residência em TIC 55 é um programa de formação em tecnologia realizado pela **Unisinos**, **BRISA** e **SOFTEX**, com apoio do **Ministério da Ciência, Tecnologia e Inovação (MCTI)** e recursos do Governo Federal, voltado à formação de profissionais e ao desenvolvimento de soluções para a reconstrução do Rio Grande do Sul após as enchentes de 2024.
+- 🤝 A Residência em TIC 55 é um programa de formação em tecnologia realizado pela **Unisinos**, **BRISA** e **SOFTEX**, com apoio do **Governo Federal**, voltado à formação de profissionais e ao desenvolvimento de soluções para a reconstrução do Rio Grande do Sul após as enchentes de 2024.
 - 🚀 Participante do **Geração Caldeira**
 
 ---
